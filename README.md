@@ -1,6 +1,15 @@
 <div align="center">
 
-# Subhajit Das
+```text
+  ●●●●    ●   ●   ●●●●    ●   ●   ●●●●       ●●●   ●●●●●   ●●●●●      ●●●●     ●●●     ●●●● 
+ ●    ●   ●   ●   ●   ●   ●   ●  ●    ●       ●      ●       ●        ●   ●   ●   ●   ●    ●
+ ●        ●   ●   ●   ●   ●   ●  ●    ●       ●      ●       ●        ●   ●  ●     ●  ●     
+  ●●●●    ●   ●   ●●●●    ●●●●●  ●●●●●●       ●      ●       ●        ●   ●  ●●●●●●●   ●●●● 
+      ●   ●   ●   ●   ●   ●   ●  ●    ●   ●   ●      ●       ●        ●   ●  ●     ●       ●
+ ●    ●   ●   ●   ●   ●   ●   ●  ●    ●   ●   ●      ●       ●        ●   ●  ●     ●  ●    ●
+  ●●●●     ●●●    ●●●●    ●   ●  ●    ●    ●●●     ●●●●●     ●        ●●●●   ●     ●   ●●●● 
+```
+
 ### Software Engineer & AIML Architect
 
 [![Status: Active](https://img.shields.io/badge/●_STATUS-ACTIVE_ONLINE-00e676?style=for-the-badge&logoColor=black)](#)
