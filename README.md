@@ -49,47 +49,33 @@ I am a **Software Engineer & AIML Architect** pursuing my **B.Tech in Computer S
 
 ---
 
-## ● Flagship Projects
+## ● Repositories & Engineering Systems
 
-### 🛡️ [01. FINDRR](https://github.com/subhajit-io/Findrr) — 100% On-Device Financial Discipline Vault
-> **Live Web:** [letusfindrr.pages.dev](https://letusfindrr.pages.dev) • **Architecture Spec:** [github.com/subhajit-io/Findrr](https://github.com/subhajit-io/Findrr)
-- **Local-First SQLite Engine:** Complete financial transactions and budgets live exclusively on your phone with zero SMS scraping and zero remote telemetry.
-- **Lyra Micro-AI Assistant:** Sub-1MB on-device NLU engine querying local SQLite in **<8ms** with zero cloud API token fees.
-- **Arena Multiplayer Kingdoms:** Income-equalized financial RPG where players conquer 50 virtual territories based on a normalized **Discipline Score**.
-- **Tech Stack:** Android (Jetpack Compose M3), Room (SQLite), Kotlin Coroutines, AES-256-GCM, Razorpay UPI SDK.
+- [**Findrr**](https://github.com/subhajit-io/Findrr) — 100% on-device, zero-knowledge personal finance OS with local SQLite, Lyra Micro-AI (<1MB), and RPG gamification.
 
-### 📦 [02. SOLUTIONS DRAWER](https://mydrawer.pages.dev/) — Sovereign Android App Store & PWA Platform
-> **Live Web:** [mydrawer.pages.dev](https://mydrawer.pages.dev/)
-- **Bypassing App Monopolies:** Minimalist web application catalog and WebAPK distributor eliminating invasive corporate surveillance and tracking.
-- **Drawer Protect Engine:** Client-side binary SHA-256 validation ensuring zero-compromise application delivery.
-- **Tech Stack:** Next.js 16, TypeScript, Cloudflare D1 Edge SQLite, Cloudflare Pages, AWS S3 Presigned.
+- [**Zuard**](https://github.com/subhajit-io/Zuard) — Deterministic brand governance engine with sub-5ms AST pre-screening, OpenCV contrast analysis, and multimodal RAG.
 
-### 🚀 03. LAUNUP — Zero-URL Software Discovery & Founder Launchpad
-> *Status: Active Preview • Launching Soon*
-- **"You tell your problems. We'll handle the rest."**
-- Zero-URL problem-first software discovery platform where users test sandboxed tools directly via `@handle.launup` sovereign handles.
-- **Tech Stack:** Next.js 15, Solutions Drawer Unified Identity, PBKDF2-SHA512, Client Sandboxes.
+- [**Schegent**](https://github.com/subhajit-io/Schegent) — Local-first calendar & schedule RAG pipeline combining regex parsing with Qwen 2.5 1.5B line-by-line CoT scanning.
 
----
+- [**Presend**](https://github.com/subhajit-io/presend) — 100% deterministic client-side privacy shield stripping PII before text is transmitted to cloud AI models.
 
-## ● Collaborative Ventures & Startups
+- [**Visual-Tokenizer**](https://github.com/subhajit-io/Visual-Tokenizer) — Interactive visual learning platform demonstrating Byte Pair Encoding (BPE) tokenization in real time.
 
-### 🎓 [UCAP](https://github.com/subhajit-io) — Social Learning & Real-Time Mentorship
-- **Role:** Co-Founder & Full-Stack Architect *(with Shusovan Dutta)*
-- **Overview:** Virtual classrooms combining Jitsi WebRTC video, Monaco IDE live code execution, and interactive whiteboards.
-- **Tech Stack:** Next.js 16, NestJS, Supabase (PostgreSQL + RBAC), Monaco Editor, WebRTC.
+- [**Cherm**](https://github.com/subhajit-io/Cherm) — Interactive terminal companion and CLI assistant for local code analysis and developer productivity.
 
-### 🏛️ [Memento](https://sih-26-memento-teal.vercel.app/) — Smart India Hackathon (SIH 2026)
-- **Role:** Co-Engineer & Platform Developer *(Problem Statement 43)*
-- **Team:** Sambu Chowdhury, Rana Tarafdar, Mousumi Bag, Yuvraj Shaw, Masum Aktar, Subhajit Das
-- **Overview:** Jharkhand state civic innovation portal connecting citizen community grievances to university HEIs for research-driven resolution.
-- **Tech Stack:** Next.js, React, Civic Tech, AI Routing, Tailwind CSS.
+- [**Solutions Drawer**](https://mydrawer.pages.dev/) — Sovereign Android app store & WebAPK distributor eliminating corporate app tracking and monopolistic gatekeeping.
 
-### 🛡️ [Zuard](https://zuard-topaz.vercel.app/) — Brand Governance & Pre-Screening Engine
-- **Role:** Co-Engineer & AI Pipeline Architect
-- **Team:** Sambu Chowdhury, Mousumi Bag, Rana Tarafdar, Subhajit Das
-- **Overview:** Deterministic brand compliance pre-screening engine with sub-5ms static AST workers, OpenCV WCAG contrast, and zero-hallucination multimodal RAG.
-- **Tech Stack:** Python, FastAPI, asyncio, SQLite, OpenCV, RAG, PyMuPDF.
+- [**Portfolio**](https://findrrsubhajit.runs-on.dev) ([Source](https://github.com/subhajit-io/portfolio)) — Minimalist, terminal-inspired personal portfolio engineered for high-performance interaction.
+
+- [**UCAP**](https://github.com/subhajit-io/Ucap) — Social learning platform featuring WebRTC virtual classrooms, live Monaco code execution, and interactive whiteboards.
+
+- [**Memento**](https://sih-26-memento-teal.vercel.app/) — Smart India Hackathon (SIH 2026) civic innovation portal connecting citizen grievances to university HEIs.
+
+- [**python-tic-tac-toe-ai**](https://github.com/subhajit-io/python-tic-tac-toe-ai) — Three-tier Python game engine ranging from heuristic logic to an optimal Minimax decision algorithm.
+
+- [**TensorTonic-Solutions**](https://github.com/subhajit-io/TensorTonic-Solutions) — High-performance implementations and solutions for deep learning tensor compute challenges.
+
+- [**Inkloom**](https://github.com/subhajit-io/inkloom) — Multi-model AI logo design pipeline transforming business constraints into marks, lockups, and clear-space rules.
 
 ---
 
