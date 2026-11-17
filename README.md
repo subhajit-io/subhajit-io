@@ -1,14 +1,6 @@
-<!--
-================================================================================
-   SUBHAJIT DAS (KRISH) — GITHUB PROFILE ARCHITECTURE & SPECIAL README
-   Design System: Solutions Drawer Industrial Minimalist / Cyber-Terminal OS
-   Theme: Dot Matrix LED (Doto) • Void Black (#000000) • Neon Green (#00E676)
-================================================================================
--->
-
 <div align="center">
 
-<img src="assets/banner.svg" alt="Subhajit Das — Solutions Drawer Terminal OS" width="100%" />
+<img src="assets/banner.svg" alt="Subhajit Das — Software Engineer & AIML Architect" width="100%" />
 
 <br><br>
 
@@ -22,9 +14,7 @@
   ●●●●     ●●●    ●●●●    ●   ●  ●    ●    ●●●     ●●●●●     ●        ●●●●   ●     ●   ●●●● 
 ```
 
-### `SUBHAJIT_OS // SOLUTIONS_DRAWER_TERMINAL_V2.6 • BASH`
-
-[![Status: Active](https://img.shields.io/badge/●_SYSTEM_STATUS-ACTIVE_ONLINE-00e676?style=for-the-badge&logo=gnubash&logoColor=black)](#)
+[![Status: Active](https://img.shields.io/badge/●_SYSTEM_STATUS-ACTIVE_ONLINE-00e676?style=for-the-badge&logoColor=black)](#)
 [![Role](https://img.shields.io/badge/●_ROLE-SOFTWARE_ENGINEER_%26_AIML_ARCHITECT-d71921?style=for-the-badge)](#)
 [![Education](https://img.shields.io/badge/●_EDUCATION-B.TECH_CSE_(AIML)_•_CGPA_8.43-38bdf8?style=for-the-badge&logo=academia&logoColor=black)](#)
 [![Base](https://img.shields.io/badge/●_BASE-ARAMBAGH_%26_KOLKATA%2C_IN-141414?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -47,92 +37,64 @@
 
 ---
 
-### `krish@solutionsdrawer:~$ whoami --verbose`
+## ● About Me
 
-```yaml
-● ARCHITECT IDENTITY:
-  Full Name      : Subhajit Das
-  Known As       : Krish
-  Academic Track : B.Tech in Computer Science & Engineering (AIML)
-  Institution    : Brainware University, Kolkata (2025 — 2029)
-  Current CGPA   : 8.43 / 10.0
-  Hometown       : Arambagh, Hooghly, West Bengal, India
-  Operating Base : Kolkata, West Bengal, India
+I am a **Software Engineer & AIML Architect** pursuing my **B.Tech in Computer Science & Engineering (AIML)** at **Brainware University, Kolkata (2025–2029)** with a current CGPA of **8.43 / 10.0**. Based out of Arambagh & Kolkata, West Bengal, India.
 
-● SPECIALIZATIONS:
-  - On-Device Sovereign Software (Zero SMS scraping, zero telemetry, local SQLite)
-  - Zero-Knowledge Cryptographic Architectures (Client-side AES-256-GCM)
-  - Sub-1MB Edge AI / NLU Engines (Deterministic intent classification, sub-10ms inference)
-  - Edge Cloud Infrastructure (Cloudflare V8 Isolates, Serverless PostgreSQL, Distributed RAG)
+- **On-Device Sovereign Software:** Engineering privacy-first applications with zero telemetry, zero SMS scraping, and 100% on-device SQLite storage.
+- **Zero-Knowledge Cryptography:** Architecting client-side encrypted systems using AES-256-GCM and offline recovery passphrases.
+- **Sub-1MB Edge AI / Micro NLU:** Designing deterministic natural language understanding engines under 1MB that execute locally with sub-10ms latency and zero cloud API fees.
+- **Distributed Edge & Cloud:** Building distributed systems with Cloudflare Pages/Workers (V8 isolates) and serverless PostgreSQL.
 
-● CORE CREED:
-  "I refuse to let today's work wait for a future that isn't promised."
-
-● WORK ENGAGEMENT:
-  Status         : Available for Remote Part-Time Software Roles, AIML Internships & Startup Leadership
-```
+> *"I refuse to let today's work wait for a future that isn't promised."*
 
 ---
 
-### `krish@solutionsdrawer:~$ ls -la /flagships/`
+## ● Flagship Projects
 
-```
-drwxr-xr-x  3 krish staff  4096 Nov 17 18:30 ./
-drwxr-xr-x 10 krish staff  4096 Nov 17 18:30 ../
-```
-
-#### 🛡️ [01. FINDRR](https://github.com/subhajit-io/Findrr) — 100% On-Device Financial Discipline Vault
+### 🛡️ [01. FINDRR](https://github.com/subhajit-io/Findrr) — 100% On-Device Financial Discipline Vault
 > **Live Web:** [letusfindrr.pages.dev](https://letusfindrr.pages.dev) • **Architecture Spec:** [github.com/subhajit-io/Findrr](https://github.com/subhajit-io/Findrr)
 - **Local-First SQLite Engine:** Complete financial transactions and budgets live exclusively on your phone with zero SMS scraping and zero remote telemetry.
 - **Lyra Micro-AI Assistant:** Sub-1MB on-device NLU engine querying local SQLite in **<8ms** with zero cloud API token fees.
 - **Arena Multiplayer Kingdoms:** Income-equalized financial RPG where players conquer 50 virtual territories based on a normalized **Discipline Score**.
-- **Stack:** Android (Jetpack Compose M3), Room (SQLite), Kotlin Coroutines, AES-256-GCM, Razorpay UPI SDK.
+- **Tech Stack:** Android (Jetpack Compose M3), Room (SQLite), Kotlin Coroutines, AES-256-GCM, Razorpay UPI SDK.
 
-#### 📦 [02. SOLUTIONS DRAWER](https://mydrawer.pages.dev/) — Sovereign Android App Store & PWA Platform
+### 📦 [02. SOLUTIONS DRAWER](https://mydrawer.pages.dev/) — Sovereign Android App Store & PWA Platform
 > **Live Web:** [mydrawer.pages.dev](https://mydrawer.pages.dev/)
 - **Bypassing App Monopolies:** Minimalist web application catalog and WebAPK distributor eliminating invasive corporate surveillance and tracking.
 - **Drawer Protect Engine:** Client-side binary SHA-256 validation ensuring zero-compromise application delivery.
-- **Stack:** Next.js 16, TypeScript, Cloudflare D1 Edge SQLite, Cloudflare Pages, AWS S3 Presigned.
+- **Tech Stack:** Next.js 16, TypeScript, Cloudflare D1 Edge SQLite, Cloudflare Pages, AWS S3 Presigned.
 
-#### 🚀 03. LAUNUP — Zero-URL Software Discovery & Founder Launchpad
+### 🚀 03. LAUNUP — Zero-URL Software Discovery & Founder Launchpad
 > *Status: Active Preview • Launching Soon*
 - **"You tell your problems. We'll handle the rest."**
 - Zero-URL problem-first software discovery platform where users test sandboxed tools directly via `@handle.launup` sovereign handles.
-- **Stack:** Next.js 15, Solutions Drawer Unified Identity, PBKDF2-SHA512, Client Sandboxes.
+- **Tech Stack:** Next.js 15, Solutions Drawer Unified Identity, PBKDF2-SHA512, Client Sandboxes.
 
 ---
 
-### `krish@solutionsdrawer:~$ cat /ventures/collaborations.json`
+## ● Collaborative Ventures & Startups
 
-```json
-[
-  {
-    "venture": "UCAP",
-    "role": "Co-Founder & Full-Stack Architect",
-    "partner": "Shusovan Dutta (@shusovan-69)",
-    "description": "Real-time collaborative social learning platform with Jitsi WebRTC video, Monaco code execution, and interactive whiteboards.",
-    "stack": ["Next.js 16", "NestJS", "PostgreSQL", "Monaco Editor", "WebRTC"]
-  },
-  {
-    "venture": "MEMENTO",
-    "role": "Smart India Hackathon (SIH 2026) — Problem Statement 43",
-    "team": ["Sambu Chowdhury", "Rana Tarafdar", "Mousumi Bag", "Yuvraj Shaw", "Masum Aktar", "Subhajit Das"],
-    "description": "Jharkhand state civic innovation portal connecting citizen community grievances to university HEIs for research-driven resolution.",
-    "live": "https://sih-26-memento-teal.vercel.app/"
-  },
-  {
-    "venture": "ZUARD",
-    "role": "Co-Engineer & AI Pipeline Architect",
-    "team": ["Sambu Chowdhury", "Mousumi Bag", "Rana Tarafdar", "Subhajit Das"],
-    "description": "Deterministic brand compliance pre-screening engine with sub-5ms static AST workers, OpenCV WCAG contrast, and zero-hallucination multimodal RAG.",
-    "live": "https://zuard-topaz.vercel.app/"
-  }
-]
-```
+### 🎓 [UCAP](https://github.com/subhajit-io) — Social Learning & Real-Time Mentorship
+- **Role:** Co-Founder & Full-Stack Architect *(with Shusovan Dutta)*
+- **Overview:** Virtual classrooms combining Jitsi WebRTC video, Monaco IDE live code execution, and interactive whiteboards.
+- **Tech Stack:** Next.js 16, NestJS, Supabase (PostgreSQL + RBAC), Monaco Editor, WebRTC.
+
+### 🏛️ [Memento](https://sih-26-memento-teal.vercel.app/) — Smart India Hackathon (SIH 2026)
+- **Role:** Co-Engineer & Platform Developer *(Problem Statement 43)*
+- **Team:** Sambu Chowdhury, Rana Tarafdar, Mousumi Bag, Yuvraj Shaw, Masum Aktar, Subhajit Das
+- **Overview:** Jharkhand state civic innovation portal connecting citizen community grievances to university HEIs for research-driven resolution.
+- **Tech Stack:** Next.js, React, Civic Tech, AI Routing, Tailwind CSS.
+
+### 🛡️ [Zuard](https://zuard-topaz.vercel.app/) — Brand Governance & Pre-Screening Engine
+- **Role:** Co-Engineer & AI Pipeline Architect
+- **Team:** Sambu Chowdhury, Mousumi Bag, Rana Tarafdar, Subhajit Das
+- **Overview:** Deterministic brand compliance pre-screening engine with sub-5ms static AST workers, OpenCV WCAG contrast, and zero-hallucination multimodal RAG.
+- **Tech Stack:** Python, FastAPI, asyncio, SQLite, OpenCV, RAG, PyMuPDF.
 
 ---
 
-### `krish@solutionsdrawer:~$ ./render_toolkit.sh`
+## ● Technical Toolkit & Stack
 
 <table>
   <tr>
@@ -169,7 +131,7 @@ drwxr-xr-x 10 krish staff  4096 Nov 17 18:30 ../
 
 ---
 
-### `krish@solutionsdrawer:~$ curl -s https://api.github.com/users/subhajit-io/metrics`
+## ● GitHub Activity & Metrics
 
 <div align="center">
 
@@ -184,21 +146,7 @@ drwxr-xr-x 10 krish staff  4096 Nov 17 18:30 ../
 
 ---
 
-### `krish@solutionsdrawer:~$ cat /etc/contact_directory.conf`
-
-```ini
-[DIRECT_CHANNELS]
-Email        = "subhajit32das@gmail.com"
-LinkedIn     = "https://www.linkedin.com/in/findrrsubhajit/"
-WhatsApp     = "+91 7001023356"
-Substack     = "https://findrrsubhajit.substack.com"
-Portfolio    = "https://solutionsdrawer.pages.dev"
-Resume       = "https://canva.link/cpc3vxhkdja03dc"
-
-[COLLABORATION_STATUS]
-Availability = "Open for Remote Part-Time Software Roles, AIML Internships & Startup Partnerships"
-ResponseTime = "< 12 Hours (Async Priority)"
-```
+## ● Contact & Connect
 
 <div align="center">
 
@@ -206,6 +154,8 @@ ResponseTime = "< 12 Hours (Async Priority)"
 [![LinkedIn](https://img.shields.io/badge/●_LINKEDIN-findrrsubhajit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/findrrsubhajit/)
 [![WhatsApp](https://img.shields.io/badge/●_WHATSAPP-CHAT_NOW-00e676?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/917001023356)
 [![Substack](https://img.shields.io/badge/●_SUBSTACK-READ_ARTICLES-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://findrrsubhajit.substack.com)
+[![Portfolio](https://img.shields.io/badge/●_PORTFOLIO-VISIT_WEBSITE-00E676?style=for-the-badge&logo=safari&logoColor=black)](https://solutionsdrawer.pages.dev)
+[![Curriculum Vitae](https://img.shields.io/badge/●_RESUME-VIEW_CV-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://canva.link/cpc3vxhkdja03dc)
 
 <br>
 <sub>Designed with the Solutions Drawer Industrial Minimalist Identity • Engineered by Subhajit Das</sub>
