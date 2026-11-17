@@ -1,20 +1,9 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Subhajit Das — Software Engineer & AIML Architect" width="100%" />
+# Subhajit Das
+### Software Engineer & AIML Architect
 
-<br><br>
-
-```text
-  ●●●●    ●   ●   ●●●●    ●   ●   ●●●●       ●●●   ●●●●●   ●●●●●      ●●●●     ●●●     ●●●● 
- ●    ●   ●   ●   ●   ●   ●   ●  ●    ●       ●      ●       ●        ●   ●   ●   ●   ●    ●
- ●        ●   ●   ●   ●   ●   ●  ●    ●       ●      ●       ●        ●   ●  ●     ●  ●     
-  ●●●●    ●   ●   ●●●●    ●●●●●  ●●●●●●       ●      ●       ●        ●   ●  ●●●●●●●   ●●●● 
-      ●   ●   ●   ●   ●   ●   ●  ●    ●   ●   ●      ●       ●        ●   ●  ●     ●       ●
- ●    ●   ●   ●   ●   ●   ●   ●  ●    ●   ●   ●      ●       ●        ●   ●  ●     ●  ●    ●
-  ●●●●     ●●●    ●●●●    ●   ●  ●    ●    ●●●     ●●●●●     ●        ●●●●   ●     ●   ●●●● 
-```
-
-[![Status: Active](https://img.shields.io/badge/●_SYSTEM_STATUS-ACTIVE_ONLINE-00e676?style=for-the-badge&logoColor=black)](#)
+[![Status: Active](https://img.shields.io/badge/●_STATUS-ACTIVE_ONLINE-00e676?style=for-the-badge&logoColor=black)](#)
 [![Role](https://img.shields.io/badge/●_ROLE-SOFTWARE_ENGINEER_%26_AIML_ARCHITECT-d71921?style=for-the-badge)](#)
 [![Education](https://img.shields.io/badge/●_EDUCATION-B.TECH_CSE_(AIML)_•_CGPA_8.43-38bdf8?style=for-the-badge&logo=academia&logoColor=black)](#)
 [![Base](https://img.shields.io/badge/●_BASE-ARAMBAGH_%26_KOLKATA%2C_IN-141414?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
