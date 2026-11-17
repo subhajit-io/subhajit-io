@@ -24,6 +24,7 @@
 </p>
 
 <p align="center">
+  <a href="https://findrrsubhajit.runs-on.dev"><img src="https://img.shields.io/badge/●_PORTFOLIO-findrrsubhajit.runs--on.dev-00E676?style=flat-square&logo=safari&logoColor=black" alt="Portfolio"></a>
   <a href="https://letusfindrr.pages.dev"><img src="https://img.shields.io/badge/●_FINDRR-00E676?style=flat-square&logo=android&logoColor=black" alt="Findrr"></a>
   <a href="https://mydrawer.pages.dev"><img src="https://img.shields.io/badge/●_SOLUTIONS_DRAWER-D71921?style=flat-square&logo=pwa&logoColor=white" alt="Solutions Drawer"></a>
   <a href="https://findrrsubhajit.substack.com"><img src="https://img.shields.io/badge/●_SUBSTACK-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack"></a>
@@ -37,7 +38,7 @@
 
 ## ● About Me
 
-I am a **Software Engineer & AIML Architect** pursuing my **B.Tech in Computer Science & Engineering (AIML)** at **Brainware University, Kolkata (2025–2029)** with a current CGPA of **8.43 / 10.0**. Based out of Arambagh & Kolkata, West Bengal, India.
+I am a **Software Engineer & AIML Architect** pursuing my **B.Tech in Computer Science & Engineering (AIML)** at **Brainware University, Kolkata (2025–2029)** with a current CGPA of **8.43 / 10.0**. Based out of Arambagh & Kolkata, West Bengal, India. Explore my live interactive portfolio at [findrrsubhajit.runs-on.dev](https://findrrsubhajit.runs-on.dev).
 
 - **On-Device Sovereign Software:** Engineering privacy-first applications with zero telemetry, zero SMS scraping, and 100% on-device SQLite storage.
 - **Zero-Knowledge Cryptography:** Architecting client-side encrypted systems using AES-256-GCM and offline recovery passphrases.
@@ -152,7 +153,7 @@ I am a **Software Engineer & AIML Architect** pursuing my **B.Tech in Computer S
 [![LinkedIn](https://img.shields.io/badge/●_LINKEDIN-findrrsubhajit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/findrrsubhajit/)
 [![WhatsApp](https://img.shields.io/badge/●_WHATSAPP-CHAT_NOW-00e676?style=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/917001023356)
 [![Substack](https://img.shields.io/badge/●_SUBSTACK-READ_ARTICLES-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://findrrsubhajit.substack.com)
-[![Portfolio](https://img.shields.io/badge/●_PORTFOLIO-VISIT_WEBSITE-00E676?style=for-the-badge&logo=safari&logoColor=black)](https://solutionsdrawer.pages.dev)
+[![Portfolio](https://img.shields.io/badge/●_PORTFOLIO-findrrsubhajit.runs--on.dev-00E676?style=for-the-badge&logo=safari&logoColor=black)](https://findrrsubhajit.runs-on.dev)
 [![Curriculum Vitae](https://img.shields.io/badge/●_RESUME-VIEW_CV-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://canva.link/cpc3vxhkdja03dc)
 
 <br>
