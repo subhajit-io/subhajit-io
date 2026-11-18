@@ -59,7 +59,7 @@ I am a **Software Engineer & AIML Architect** pursuing my **B.Tech in Computer S
 - **Tech Stack:** Android (Jetpack Compose M3), Room (SQLite), Kotlin Coroutines, AES-256-GCM, Razorpay UPI SDK.
 
 ### 📦 [02. SOLUTIONS DRAWER](https://mydrawer.pages.dev/) — Sovereign Android App Store & PWA Platform
-> **Live Web:** [mydrawer.pages.dev](https://mydrawer.pages.dev/)
+> *Status: Building • Under Development (Not Launched)* • **Preview:** [mydrawer.pages.dev](https://mydrawer.pages.dev/)
 - **Bypassing App Monopolies:** Minimalist web application catalog and WebAPK distributor eliminating invasive corporate surveillance and tracking.
 - **Drawer Protect Engine:** Client-side binary SHA-256 validation ensuring zero-compromise application delivery.
 - **Tech Stack:** Next.js 16, TypeScript, Cloudflare D1 Edge SQLite, Cloudflare Pages, AWS S3 Presigned.
